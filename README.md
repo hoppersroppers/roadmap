@@ -28,7 +28,7 @@ Do you feel comfortable writing a Python script which would scrape a website and
 
 How do you feel about "    ", "       ", "       ", and "                   "?
 
-* [All sounds good to me.](#ctf)
+* [All sounds good to me.](#ctfs)
 * [I think so.](training/hardos.md)
 * [Need to check that out.](training/hardos.md)
 
@@ -90,5 +90,4 @@ How do you feel about writing a buffer overflow with no stack protections?
 <br>
 <br>
 <br>
-What are you looking for down here?
-<br>
+
