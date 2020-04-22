@@ -6,9 +6,10 @@ Do you feel comfortable on a Linux command line?
 * [I have experience.](challs/bandit.md) 
 * [Not confident.](training/linux.md) 
   
-  
+ 
 <br>
 <br>
+<hr>
 <br>
 <br>
   <h3 id="python">Python</h3> 
@@ -21,6 +22,7 @@ Do you feel comfortable writing a Python script which would scrape a website and
 
 <br>
 <br>
+<hr>
 <br>
 <br>
 
@@ -34,6 +36,7 @@ How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
 
 <br>
 <br>
+<hr>
 <br>
 <br>
 
@@ -47,6 +50,7 @@ How do you feel about solving network and host forensics challenges?
 
 <br>
 <br>
+<hr>
 <br>
 <br>
 
@@ -60,6 +64,7 @@ Do you know anything about Crypto?
 
 <br>
 <br>
+<hr>
 <br>
 <br>
 
@@ -73,6 +78,7 @@ How do you feel about writing C and reversing it using a debugger?
 
 <br>
 <br>
+<hr>
 <br>
 <br>
 
@@ -83,7 +89,6 @@ How do you feel about writing a buffer overflow with no stack protections?
 * [Yes, no doubt.](training/pwning.md)  
 * [Not really, but I want to learn.](training/pwning.md) 
 
-<br>
 <br>
 <br>
 <br>
