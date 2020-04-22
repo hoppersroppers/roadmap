@@ -3,7 +3,7 @@
 The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level and what they want to learn. Click the hyperlinks to choose your own adventure!
 
 
-<h3 id="linux">Linux</h3> 
+<h2 id="linux">1. Linux</h2> 
 
 Do you feel comfortable on a Linux command line? 
 
@@ -17,7 +17,8 @@ Do you feel comfortable on a Linux command line?
 <hr>
 <br>
 <br>
-  <h3 id="python">Python</h3> 
+ 
+ <h2 id="python">2. Python</h2> 
                                                                       
 Do you feel comfortable writing a Python script which would scrape a website and email you the most recent articles? 
 
@@ -31,7 +32,7 @@ Do you feel comfortable writing a Python script which would scrape a website and
 <br>
 <br>
 
-<h3 id="switch">Learn the Fundamentals or Learn How to Compete in a CTF</h3> 
+<h2 id="switch">3. Fundamentals or Learn How to Compete in a CTF</h2> 
 
 #### Intro to Capture the Flags
 
@@ -62,7 +63,7 @@ Learning Objectives: Security Theory, Practical Application, Real-World Examples
 <br>
 
 
-<h3 id="ctfs">Capture the Flags</h3> 
+<h2 id="ctfs">4. Capture the Flags</h2> 
 
 How do you feel about solving network and host forensics challenges?
 
@@ -76,7 +77,7 @@ How do you feel about solving network and host forensics challenges?
 <br>
 <br>
 
-<h3 id="ctfs">Crypto</h3> 
+<h2 id="ctfs">5. Crypto</h2> 
 
 Do you know anything about Crypto?
 
@@ -90,7 +91,7 @@ Do you know anything about Crypto?
 <br>
 <br>
 
-<h3 id="cnre">C Programming and RE</h3> 
+<h2 id="cnre">6. C Programming and RE</h2> 
 
 How do you feel about writing C and reversing it using a debugger? 
 
@@ -104,7 +105,7 @@ How do you feel about writing C and reversing it using a debugger?
 <br>
 <br>
 
-<h3 id="pwn">Pwning</h3> 
+<h2 id="pwn">7. Pwning</h2> 
 How do you feel about writing a buffer overflow with no stack protections?
 
 * [Give me a heap challenge!](MessageUsYouNerdWeNeedHelp) 
