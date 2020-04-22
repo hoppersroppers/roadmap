@@ -79,11 +79,11 @@ How do you feel about solving network and host forensics challenges?
 
 <h2 id="ctfs">5. Crypto</h2> 
 
-Do you know anything about Crypto?
+Do you know anything about the basics of cryptography?
 
 * [I do it in my spare time.](MessageUsYouNerdWeNeedHelp)
-* [Yes, but I don't like it much.](#cnre)
-* [Need to check that out.](training/crypto1.md)
+* [Yes, but I don't like it much. I don't want to learn any more](#cnre)
+* [I would love to learn some!](training/crypto1.md)
 
 <br>
 <br>
@@ -91,7 +91,20 @@ Do you know anything about Crypto?
 <br>
 <br>
 
-<h2 id="cnre">6. C Programming and RE</h2> 
+<h2 id="web">6. Web</h2> 
+
+How much do you know about Web exploitation?
+
+* [I do it regularly](#pwn)
+* [I'm not really interested, I want to learn reversing and exploit writing.](#cnre)
+* [No, but I want to learn.](training/web.md)
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+<h2 id="cnre">7. C Programming and RE</h2> 
 
 How do you feel about writing C and reversing it using a debugger? 
 
@@ -105,7 +118,7 @@ How do you feel about writing C and reversing it using a debugger?
 <br>
 <br>
 
-<h2 id="pwn">7. Pwning</h2> 
+<h2 id="pwn">8. Pwning</h2> 
 How do you feel about writing a buffer overflow with no stack protections?
 
 * [Give me a heap challenge!](MessageUsYouNerdWeNeedHelp) 
