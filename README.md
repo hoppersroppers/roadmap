@@ -1,6 +1,7 @@
-# Linux {#linux}
+<h3 id="linux"Linux</h3>
+
 Do you feel comfortable on a Linux command line? 
-                                                                          -> [Very confident.](#) 
+                                                                          -> [Very confident.](#linux) 
                                                                           -> [I have experience.](#) 
                                                                           -> [Not confident.](#) 
 # Python {#python}                                                                         
