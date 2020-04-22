@@ -1,6 +1,6 @@
 # Python Basics
 
-Message @deveynull on the Discord to tell him you are starting the course, and then use the #hoppersroppers chatroom for any questions or discussions.
+Message @deveynull to tell him you are starting the course, and then use the #hoppersroppers chatroom for any questions or discussions.
 
 ## Codeacademy Python
 
