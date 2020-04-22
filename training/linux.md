@@ -1,4 +1,4 @@
-[This site](https://academy.hoppersroppers.org) has a comphrehensive curriculum on Computing and Security Fundamentals. 
+The Hopper's Roppers site has a comphrehensive curriculum on Computing and Security Fundamentals. 
 
 In this section you will learn about virtualization, download a VM, and learn the basics of Linux.
 
