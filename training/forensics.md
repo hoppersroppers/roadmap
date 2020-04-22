@@ -1,1 +1,3 @@
-[https://navy.hoppersroppers.org/course/view.php?id=6#section-5](https://navy.hoppersroppers.org/course/view.php?id=6#section-5)
+From the Hopper's Roppers CTF Course, complete their Host Forensics, Network Forensics, and Memory Forensics sections. 
+
+<https://academy.hoppersroppers.org/course/view.php?id=7#section-5>
