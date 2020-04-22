@@ -72,7 +72,7 @@ Do you know anything about Crypto?
 
 How do you feel about writing C and reversing it using a debugger? 
 
-* [You know what, I feel confident about it.](#exploits)
+* [You know what, I feel confident about it.](#pwn)
 * [Somewhat? Like I think I can](training/hardstuff.md)
 * [No, but I want to learn.](training/hardstuff.md)
 
@@ -82,7 +82,7 @@ How do you feel about writing C and reversing it using a debugger?
 <br>
 <br>
 
-<h3 id="exploits">Pwning</h3> 
+<h3 id="pwn">Pwning</h3> 
 How do you feel about writing a buffer overflow with no stack protections?
 
 * [Give me a heap challenge!](MessageUsYouNerdWeNeedHelp) 
