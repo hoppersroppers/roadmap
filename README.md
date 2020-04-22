@@ -26,7 +26,7 @@ Do you feel comfortable writing a Python script which would scrape a website and
 
 <h3 id="hardos">Hardware and Operating Systems</h3> 
 
-How do you feel about "    ", "       ", "       ", and "                   "?
+How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
 
 * [All sounds good to me.](#ctfs)
 * [I think so.](training/hardos.md)
@@ -79,7 +79,7 @@ How do you feel about writing C and reversing it using a debugger?
 <h3 id="exploits">Pwning</h3> 
 How do you feel about writing a buffer overflow with no stack protections?
 
-* [Give me a heap challenge!](Come visit us in chat, we need to talk) 
+* [Give me a heap challenge!](MessageUsYouNerdWeNeedHelp) 
 * [Yes, no doubt.](training/pwning.md)  
 * [Not really, but I want to learn.](training/pwning.md) 
 
