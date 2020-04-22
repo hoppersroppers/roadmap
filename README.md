@@ -1,29 +1,54 @@
-<h3 id="linux"Linux</h3> 
-
-# Linux 
+<h3 id="linux">Linux</h3> 
 
 Do you feel comfortable on a Linux command line? 
 
 * [Very confident.](#linux) 
-* [I have experience.](#) 
-* [Not confident.](#) 
+* [I have experience.](chals/bandit.md) 
+* [Not confident.](training/linux.md) 
 
-# Python {#python}                                                                         
+<h3 id="python">Python</h3> 
+                                                                      
 Do you feel comfortable writing a Python script which would scrape a website and email you the most recent articles? 
 
-* [Easy day.](#)
-* [I think so.](#)
-* [Probably not.](#) 
+* [Easy day.](#hardos)
+* [I think so.](chals/pythontest.md)
+* [Probably not.](training/python.md) 
 
-# Hardware and Operating Systems {#hardos}
+<h3 id="hardos">Hardware and Operating Systems</h3> 
+
 How do you feel about "    ", "       ", "       ", and "                   "?
 
-* [All sounds good to me.](#CTFCourse)
-* I think so.
-* Need to check that out.
+* [All sounds good to me.](#ctf)
+* [I think so.](training/hardos.md)
+* [Need to check that out.](training/hardos.md)
 
-# Exploits                                                                       
+<h3 id="ctfs">Forensics Capture the Flags</h3> 
+
+How do you feel about solving network and host forensics challenges?
+
+* [I got that down.](#crypto)
+* [I think so.](training/forensics.md)
+* [Need to check that out.](training/forensics.md)
+
+<h3 id="ctfs">Crypto</h3> 
+
+Do you know anything about Crypto?
+
+* [I do it in my spare time.](training/crypto2.md)
+* [Yes, but I don't like it much.](#cnre)
+* [Need to check that out.](training/crypto1.md)
+
+<h3 id="cnre">C Programming and RE</h3> 
+
+How do you feel about writing C and reversing it using a debugger? 
+
+* [You know what, I feel confident about it.](#exploits)
+* [Somewhat? Like I think I can](training/hardstuff.md)
+* [No, but I want to learn.](training/hardstuff.md)
+
+<h3 id="exploits">Pwning</h3> 
 How do you feel about writing a buffer overflow with no stack protections?
 
-* [Yeah, probably.](Nightmare) 
-* [No chance.](#candreverse) 
+* [Give me a heap challenge.](training/nightmare.md) 
+* [Yes, no doubt.](training/nightmare.md)  
+* [Not really, but I want to learn.](training/nightmare.md) 
