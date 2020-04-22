@@ -1,4 +1,8 @@
-# Codeacademy Python
+# Python Basics
+
+Message @deveynull on the Discord to tell him you are starting the course, and then use the #hoppersroppers chatroom for any questions or discussions.
+
+## Codeacademy Python
 
 This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints. 
 
