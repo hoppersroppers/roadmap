@@ -1,1 +1,3 @@
-https://academy.hoppersroppers.org/course/view.php?id=8
+Complete the training at <https://navy.hoppersroppers.org/course/view.php?id=5#section-4>.
+
+
