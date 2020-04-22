@@ -13,7 +13,7 @@ So you know a language now, right? Congratulations! The thing to remember is tha
 
  You are a big bad programmer now, but it has all been done in your browser! Time to learn how to do it from the terminal on your computer(s). This might require some googling..... don't worry, that is literally how programming works. You find something you need to do, and google how to do it. Then you forget how to do it, and you go and google it again the next time you do it. The next bit will help you set up your python environment in your OS's. Setting up environments is very time consuming, no matter what it is, but you will have to do this for basically every language, and every version of each language, so you will have to get good at it.
 
-#Python in the Terminal
+# Python in the Terminal
 
 ## Windows 
 
