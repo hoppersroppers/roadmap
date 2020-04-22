@@ -1,6 +1,6 @@
-The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level and what they want to learn.
+## Choose Your Own Adventure
 
-
+The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level and what they want to learn. Click the hyperlinks to choose your own adventure!
 
 
 <h3 id="linux">Linux</h3> 
