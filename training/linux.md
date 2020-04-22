@@ -4,4 +4,6 @@ In this section you will learn about virtualization, download a VM, and learn th
 
 Complete the training at <https://navy.hoppersroppers.org/course/view.php?id=5#section-4>.
 
+If you feel like it, just keep going and finish the course... it's what this flow chart has you do anyway!
+
 
