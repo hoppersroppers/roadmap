@@ -1,4 +1,4 @@
-#Codeacademy Python
+# Codeacademy Python
 
 This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints. 
 
