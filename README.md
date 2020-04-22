@@ -26,6 +26,21 @@ Do you feel comfortable writing a Python script which would scrape a website and
 <br>
 <br>
 
+<h3 id="hardos">Learn the Fundamentals or Learn How to Compete in a CTF</h3> 
+
+How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
+
+* [Fundamentals sounds boring. Let's go do some CTFs.](#ctfs)
+* [I don't want to go over the fundamentals, but I will because it will make me better.](#hardos)
+
+
+<br>
+<br>
+<hr>
+<br>
+<br>
+
+
 <h3 id="hardos">Hardware and Operating Systems</h3> 
 
 How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
@@ -40,13 +55,13 @@ How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
 <br>
 <br>
 
-<h3 id="ctfs">Forensics Capture the Flags</h3> 
+<h3 id="ctfs">Capture the Flags</h3> 
 
 How do you feel about solving network and host forensics challenges?
 
-* [I got that down.](#crypto)
-* [I think so.](training/forensics.md)
-* [Need to check that out.](training/forensics.md)
+* [I got that down. Bring on something else.](#crypto)
+* [I've done some before, but I need more practice.](training/forensics.md)
+* [I don't know much but I want to learn.](training/forensics.md)
 
 <br>
 <br>
@@ -58,7 +73,7 @@ How do you feel about solving network and host forensics challenges?
 
 Do you know anything about Crypto?
 
-* [I do it in my spare time.](training/crypto2.md)
+* [I do it in my spare time.](MessageUsYouNerdWeNeedHelp)
 * [Yes, but I don't like it much.](#cnre)
 * [Need to check that out.](training/crypto1.md)
 
@@ -72,8 +87,8 @@ Do you know anything about Crypto?
 
 How do you feel about writing C and reversing it using a debugger? 
 
-* [You know what, I feel confident about it.](#pwn)
-* [Somewhat? Like I think I can](training/hardstuff.md)
+* [Yes, I feel confident about it.](#pwn)
+* [Somewhat? I think I can.](training/hardstuff.md)
 * [No, but I want to learn.](training/hardstuff.md)
 
 <br>
@@ -86,7 +101,7 @@ How do you feel about writing C and reversing it using a debugger?
 How do you feel about writing a buffer overflow with no stack protections?
 
 * [Give me a heap challenge!](MessageUsYouNerdWeNeedHelp) 
-* [Yes, no doubt.](training/pwning.md)  
+* [Yes, probably.](training/pwning.md)  
 * [Not really, but I want to learn.](training/pwning.md) 
 
 <br>
