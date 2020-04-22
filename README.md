@@ -1,3 +1,8 @@
+The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level and what they want to learn.
+
+
+
+
 <h3 id="linux">Linux</h3> 
 
 Do you feel comfortable on a Linux command line? 
@@ -16,7 +21,7 @@ Do you feel comfortable on a Linux command line?
                                                                       
 Do you feel comfortable writing a Python script which would scrape a website and email you the most recent articles? 
 
-* [Easy day.](#hardos)
+* [Easy day.](#switch)
 * [I think so.](challs/pythontest.md)
 * [Probably not.](training/python.md) 
 
@@ -26,12 +31,28 @@ Do you feel comfortable writing a Python script which would scrape a website and
 <br>
 <br>
 
-<h3 id="hardos">Learn the Fundamentals or Learn How to Compete in a CTF</h3> 
+<h3 id="switch">Learn the Fundamentals or Learn How to Compete in a CTF</h3> 
 
-How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
+#### Intro to Capture the Flags
+
+Learn the fundamentals required to be successful in Capture the Flag competitions and compete in the picoCTF event.
+Learning Objectives: CTFs, Forensics, Cryptography, Web-Exploitation
 
 * [Fundamentals sounds boring. Let's go do some CTFs.](#ctfs)
-* [I don't want to go over the fundamentals, but I will because it will make me better.](#hardos)
+
+#### Intro. to Computing
+This is our flagship course, designed to give a beginner in the cyber security field the knowledge and skills required to be successful in the field. It teaches security fundamentals along with building a strong technical foundation that you will build on for years to come.
+Learning Objectives: Hardware, Networking, Operating Systems, Power User
+
+* [I want to learn about Computing Fundamentals](training/hardos.md)
+
+
+#### Introduction to Security: How Security Works in the Real World
+
+Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.
+Learning Objectives: Security Theory, Practical Application, Real-World Examples
+
+* [I want to learn about Security Fundamentals](training/security.md)
 
 
 <br>
@@ -40,20 +61,6 @@ How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
 <br>
 <br>
 
-
-<h3 id="hardos">Hardware and Operating Systems</h3> 
-
-How do you feel about the words "compiler", "interrupt", "stack", and "heap"?
-
-* [All sounds good to me.](#ctfs)
-* [I think so.](training/hardos.md)
-* [Need to check that out.](training/hardos.md)
-
-<br>
-<br>
-<hr>
-<br>
-<br>
 
 <h3 id="ctfs">Capture the Flags</h3> 
 
