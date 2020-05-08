@@ -12,6 +12,8 @@ If you already know what you want to learn, click the links below. Otherwise, co
 * [Binary Exploitation](training/pwning.md)
 * [Web Exploitation](training/web.md)
 
+To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
+
 # Choose Your Own Adventure
 
 The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level and what they want to learn. Click the hyperlinks to find the training that is right for you!
@@ -145,10 +147,8 @@ How do you feel about writing a buffer overflow with no stack protections?
 
 You got to the end of the choose your own adventure. Contact the Training Group if you have any questions, comments, or recommendations. 
 
+To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
+
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
