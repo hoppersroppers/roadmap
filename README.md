@@ -77,7 +77,6 @@ Learning Objectives: Security Theory, Practical Application, Real-World Examples
 
 * [I want to learn about Security Fundamentals.](training/security.md)
 
-### 
 <br>
 <br>
 <hr>
