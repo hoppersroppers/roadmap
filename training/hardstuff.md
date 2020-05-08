@@ -1,3 +1,9 @@
+# Roppers Academy- Learn the Hard Stuff the Slow Way
+
+After years of trying to teach students and trying to teach ourselves, we came up with a curriculum to learn C, Assembly, debugging, and reverse-engineering all at the same time. It is a lot of work, but is the best way to learn out there.
+
+This course prepares you completely for more advanced reverse engineering and binary exploitation.
+
 Complete this course. [https://academy.hoppersroppers.org/course/view.php?id=4](https://academy.hoppersroppers.org/course/view.php?id=4)
 
-Message @deveynull to tell him you are starting the course, and then use the #reversing chatroom for any questions or discussions.
+Message @Dennis Devey to tell him you are starting the course, and then use the #reversing chatroom for any questions or discussions.
