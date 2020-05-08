@@ -4,28 +4,31 @@
 
 Binary exploitation, or pwn, requires a familiarity with C and a scripting language (preferrably python).  
 
-It is highly recommended you have completed 'Learn the Hard Stuff the Slow Way'.
+It is highly recommended you have completed ['Learn the Hard Stuff the Slow Way'](/hardstuff.md).
 
 ## Progression of the PWN ##
-The following sites are recommended for challenges that cover the subjects below:
+The following site is recommended as the primary way to learn
 
 * [Nightmare](https://github.com/guyinatuxedo/nightmare/tree/master/modules)
 
-### Stack Based Buffer Overflows on x86 32 or 64 bit ###
-This is a pwn staple.  The most important thing to do in these challenges is to understand how a program uses the stack as it executes.  The use of the stack structure is really what you are exploiting here.
+Once you have completed this course, then you can go and look at all the other 1000 resources and learn about Windows and everything else. For now, keep your eyes on the prize and do the entire thing.
 
-### ROP Challenges ###
-Return Oriented Programming is a natural result of NX Stacks.  If we can't execute on the stack then we have to direct execution somewhere else, hense ROP.  It is a step on the never ending chain of hackers working around the mitigations of defenders.  Again, understanding of the stack and how a program uses it is key here.
+## Discord 
+If you get stuck on something for hours on end and google can't answer your question, try asking in the discord (or if you just feel like talking about cool security things). Here is a link to it <https://discord.gg/p5E3VZF>
 
-### Format String Challenges ###
-An oldy, but a goody.  Wherever user input is passed into a function as a format string without significant sanitization, there is a format string vulnerability. And again, UNDSTANDING THE STACK IS KEY!  We are starting to see a pattern.
+Also if you notice any typos or mistakes, feel free to mention it in the Discord. With how much content is here, there is bound to be at least one.
 
-### Integer Overflows ###
-This type of vulnerability bases its existence on the finite nature of certain primative types such as ints and longs.  Once these types reach their max values, if incrimented, they can turn negative or wrap around back to zero.  This can cause overflows, leaks, and general revelry.
+### Recommended Linux/ARM Exploitation Resources ###
 
-### Heap Overflows ###
-Heap overflows are similar to buffer overflows on the stack, but you are overflowing a different strucure, the heap.  This means we switch the drum beat from understanding the stack is key to UNDERSTANDING THE HEAP IS KEY!  Heap overflows come in many forms to include write-what-where's and function pointer overwrites.  Any data can be put on the heap, so exploit possibilities are only as finite as the program's use of the heap and your control over that use.
+There are 1000 resources for this. These are the best ones.
 
-### Windows Exploitation ###
+* <http://security.cs.rpi.edu/courses/binexp-spring2015/>
+* <https://github.com/RPISEC/MBE>
+* <https://samsclass.info/127/127_F19.shtml>
 
-[Fu11Shade Windows Exploitation](https://fullpwnops.com/windows-exploitation-pathway.html)
+### Recommended Windows Exploitation Resources ###
+
+There are 1000 resources for this. These are the best ones.
+
+* [Fu11Shade Windows Exploitation](https://fullpwnops.com/windows-exploitation-pathway.html)
+* <https://github.com/r3p3r/nixawk-awesome-windows-exploitation>
