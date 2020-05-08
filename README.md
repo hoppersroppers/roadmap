@@ -22,7 +22,7 @@ Do you feel comfortable on a Linux command line? Are you comfortable with comput
 
 * [I have some experience.](challs/bandit.md) 
 * [Not confident.](training/linux.md) 
-* [I do not need any more Linux  experience.](#2-python)
+* [I do not need any more Linux  experience.](#python)
   
  
 <br>
@@ -37,7 +37,7 @@ Do you feel comfortable writing a Python script which would scrape a website and
 
 * [I think so.](challs/pythontest.md)
 * [Probably not.](training/python.md) 
-* [Definitely, I am a confident programmer.](#3-learn-fundamentals-or-compete-in-a-ctf)
+* [Definitely, I am a confident programmer.](#switch)
 
 <br>
 <br>
@@ -62,8 +62,8 @@ Learn the basics of what is required to be successful in Capture the Flag compet
 
 Learning Objectives: CTFs, Forensics, Cryptography, Web-Exploitation
 
-* [Fundamentals sounds boring. Let's go do some CTFs.](#4-capture-the-flags)
-* [I already know all that stuff. Give me something harder](#7-c-programming-and-re)
+* [Fundamentals sounds boring. Let's go do some CTFs.](#ctfs)
+* [I already know all that stuff. Give me something harder](#cnre)
 
 #### Introduction to Security: How Security Works in the Real World
 
@@ -87,6 +87,8 @@ How do you feel about solving network and host forensics challenges?
 
 * [I've done some before, but I need more practice.](training/forensics.md)
 * [I don't know much but I want to learn.](training/forensics.md)
+* [That is boring, and I can do it already.](#crypto)
+
 
 <br>
 <br>
@@ -99,6 +101,8 @@ How do you feel about solving network and host forensics challenges?
 Do you know anything about the basics of cryptography?
 
 * [I would love to learn some!](training/crypto.md)
+* [Not particularly interested.](#web)
+
 
 <br>
 <br>
@@ -110,7 +114,7 @@ Do you know anything about the basics of cryptography?
 
 How much do you know about Web exploitation?
 
-* [I'm not really interested, I want to learn reversing and exploit writing.](#7-c-programming-and-re)
+* [I'm not really interested, I want to learn reversing and exploit writing.](#cnre)
 * [No, but I want to learn.](training/web.md)
 <br>
 <br>
