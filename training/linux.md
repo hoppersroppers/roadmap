@@ -1,6 +1,8 @@
-The Hopper's Roppers site has a comphrehensive curriculum on Computing and Security Fundamentals. 
+# Roppers Academy - Computing Fundamentals 
 
-In this section you will learn about virtualization, download a VM, and learn the basics of Linux.
+This is the flagship courrse of the site, designed to get beginners up and running in all aspects of the field by providing a gentle and entertaining introduction to the technology around us.
+
+In this section you will learn about virtualization, download a VM, and learn the basics of Linux. If you continue the course you will also learn about hardware, networking, operating systems, become a Windows and Linux power user, and learn basic scripting.
 
 Complete the training at <https://academy.hoppersroppers.org/course/view.php?id=8#section-4>.
 
