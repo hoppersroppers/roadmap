@@ -8,7 +8,7 @@ If you already know what you want to learn, click the links below. Otherwise, co
 * [Computing Fundamentals](training/fundamentals.md) 
 * [Security Fundamentals](training/security.md) 
 * [Python Fundamentals](training/python.md) 
-* [Capture the Flag Basics](training/ctf.md)
+* [Capture the Flag Basics](#4-capture-the-flags)
 * [Cryptography](training/crypto.md)
 * [C and Reverse Engineering](training/hardstuff.md) 
 * [Binary Exploitation](training/pwning.md)
