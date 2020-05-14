@@ -150,6 +150,15 @@ You got to the end of the choose your own adventure. Contact the Training Group 
 
 To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
 
+
+To Start a Draft Post Featuring the Roadmap on Your Social Media Pages:
+
+<a href="https://twitter.com/share?url=https://hoppersroppers.org/course.html&text=I started learning security fundamentals today @HoppersRoppers!">Share the Roadmap on Twitter!</a>
+
+<a href="https://www.facebook.com/share.php?u=https://hoppersroppers.org/training">Share on Facebook</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://hoppersroppers.org/training">Share on Linkedin</a>
+
 <br>
 
 
