@@ -1,5 +1,7 @@
 # Roppers Academy Choose Your Own Adventure 
 
+There are limitless resources out there to teach you the basics of computing and security. Finding the right place to start with that many options is impossible. Our philosophy at Hopper's Roppers is that we provide you this straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. We aren't saying that this is perfect, but we are very confident this is the best way to learn.
+
 ## Quick Links
 
 If you already know what you want to learn, click the links below. Otherwise, continue down the page and we will help find the right training for your skill level and what you want to improve.
@@ -18,7 +20,7 @@ To get back to the main site: [Click Here](https://www.hoppersroppers.org/traini
 
 # Choose Your Own Adventure
 
-The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level and what they want to learn. Click the hyperlinks to find the training that is right for you!
+The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level. For the most part, you should follow the main track as a beginner so that you improve on pace with the difficulty of the material. Click the hyperlinks to find the training that is right for you!
 
 <h2 id="linux">1. Linux</h2> 
 
