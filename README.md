@@ -1,6 +1,10 @@
 # Roppers Academy Choose Your Own Adventure 
 
-There are limitless resources out there to teach you the basics of computing and security. Finding the right place to start with that many options is impossible. Our philosophy at Hopper's Roppers is that we provide you this straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. We aren't saying that this is perfect, but we are very confident this is the best way to learn.
+There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. 
+
+Our philosophy at Hopper's Roppers is that we provide you this straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. 
+
+We aren't saying that this is perfect, but we are very confident this is the best way to learn.
 
 ## Quick Links
 
