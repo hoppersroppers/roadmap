@@ -1,6 +1,6 @@
 # Roppers Academy Computing Fundamentals
 
-This is the flagship course of the Ropeprs Academy site. Even if this stuff is the fundamentals there is rarely a reason you would have to learn them in your day job. 
+This is the flagship course of the Roppers Academy site. Even if this stuff is the fundamentals there is rarely a reason you would have to learn them in your day job. 
 
 Complete the sections here which cover Hardware, Operating Systems, Windows Internals, and Linux Internals. 
 
