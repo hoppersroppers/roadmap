@@ -6,7 +6,7 @@ Our philosophy at Ropper's Academy is that we provide you a straightforward road
 
 If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge more than learning.
 
-The Ropper's Roadmap which you are at right now, on the other hand, is entirely focused on learning new material in the most efficient and entertaining way possible. It's not perfect, but I am very confident this is the most entertaining way to learn.
+On the other hand, the Ropper's Roadmap, which is where you are right now, is entirely focused on learning new material in the most efficient and entertaining way possible. It's not perfect, but I am very confident this is the most entertaining way to learn.
 
 ## Quick Links
 
