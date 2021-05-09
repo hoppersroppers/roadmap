@@ -2,9 +2,11 @@
 
 There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. 
 
-Our philosophy at Hopper's Roppers is that we provide you this straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. 
+Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. 
 
-We aren't saying that this is perfect, but we are very confident this is the best way to learn.
+If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge more than learning.
+
+The Ropper's Roadmap which you are at right now, on the other hand, is entirely focused on learning new material in the most efficient and entertaining way possible. It's not perfect, but I am very confident this is the most entertaining way to learn.
 
 ## Quick Links
 
@@ -156,15 +158,5 @@ You got to the end of the choose your own adventure. Contact the Training Group 
 
 To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
 
-
-To Start a Draft Post Featuring the Roadmap on Your Social Media Pages:
-
-<a href="https://twitter.com/share?url=https://hoppersroppers.org/course.html&text=I started learning security fundamentals today @HoppersRoppers!">Share the Roadmap on Twitter!</a>
-
-<a href="https://www.facebook.com/share.php?u=https://hoppersroppers.org/training">Share on Facebook</a>
-
-<a href="https://www.linkedin.com/shareArticle?mini=true&url=https://hoppersroppers.org/training">Share on Linkedin</a>
-
-<br>
 
 
