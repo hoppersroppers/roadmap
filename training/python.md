@@ -1,6 +1,5 @@
-# Python Basics
+# How To Learn Python Roadmap
 
-Message @Dennis Devey to tell him you are starting the course, and then use the #python chatroom for any questions or discussions.
 
 # Codeacademy Python
 
