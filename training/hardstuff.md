@@ -8,6 +8,12 @@ This course prepares you completely for more advanced reverse engineering and bi
 
 Complete this course. [https://academy.hoppersroppers.org/course/view.php?id=4](https://academy.hoppersroppers.org/course/view.php?id=4)
 
+Once you have finished the course, you will be ready for some specialized training:
+
+* [A Great Crack-Me Tutorial](https://nora.codes/tutorial/an-intro-to-x86_64-reverse-engineering/)
+* I still need to make a good Malware RE Tutorial
+* [Basic Buffer Overflow Tutorial](https://academy.hoppersroppers.org/course/view.php?id=4#section-27)
+
 ## Arm Resource
 
 If you are trying to learn ARM, use these resources:
