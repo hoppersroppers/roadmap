@@ -16,7 +16,7 @@ Once you have finished the course, you will be ready for some specialized traini
 
 ## Arm Resource
 
-If you are trying to learn ARM, use these resources:
+If you are trying to learn ARM, complete all of this, and then use these resources to get your brain into ARM syntax mode:
 
 * [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * <https://developer.arm.com/documentation/102438/0100/Learning-about-the-instruction-set>
