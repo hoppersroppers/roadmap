@@ -1,4 +1,4 @@
-# Forensics Roadmap
+# How to Learn Forensics Roadmap
 
 Are you trying to learn how to do forensics, whether for a CTF challenge or for a DFIR job?
 
