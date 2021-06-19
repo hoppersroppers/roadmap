@@ -1,8 +1,14 @@
-# Forensics
+# Forensics Roadmap
 
-From the Roppers CTF Course, complete their Host Forensics, Network Forensics, and Memory Forensics sections. 
+Are you trying to learn how to do forensics, whether for a CTF challenge or for a DFIR job?
 
-<https://academy.hoppersroppers.org/course/view.php?id=7#section-5>
+This is our recommendation for a starting point. 
 
-Message @Dennis Devey to tell him you are starting the course, and then use the #forensics chatroom for any questions or discussions.
+From the Roppers CTF Course:
+
+* Complete [File Forensics](https://academy.hoppersroppers.org/course/view.php?id=7#section-4).
+* Complete [Host and Memory Forensics](https://academy.hoppersroppers.org/course/view.php?id=7#section-8)
+* Complete [Network Forensics](https://academy.hoppersroppers.org/course/view.php?id=7#section-6)
+
+There is a lot to learn here, but this is a decent start.
 
