@@ -2,7 +2,7 @@
 
 There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. 
 
-Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. 
+Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself entirely. With the right learning path, anyone can teach themselves whatever they need to know, but otherwise they might be paddling the wrong direction.
 
 * If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge to future employers, without certs.
 * If you are interested in certificates, [this is our roadmap for earning those](https://www.hoppersroppers.org/library/infosecCertRoadmap).
