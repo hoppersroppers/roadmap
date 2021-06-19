@@ -1,4 +1,6 @@
-# PWN Roadmap #
+# PWN and Binary Exploitation Roadmap 
+
+This is our path to learn how to write binary exploits and become a wizard. 
 
 ## Prerequisites ##
 
