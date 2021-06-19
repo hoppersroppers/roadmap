@@ -1,4 +1,4 @@
-# How to Learn Security Fundamentals
+# How to Learn Security Fundamentals Roadmap
 
 Check this out: <https://www.hoppersroppers.org/library/thingsWorthDoing.html>
 
