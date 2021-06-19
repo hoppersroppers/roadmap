@@ -1,162 +1,54 @@
-# Roppers Academy Choose Your Own Adventure 
+# Security Education Roadmap
 
 There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. 
 
 Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. 
 
-If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge more than learning.
+If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge. 
 
-On the other hand, the Ropper's Roadmap, which is where you are right now, is entirely focused on learning new material in the most efficient and entertaining way possible. It's not perfect, but I am very confident this is the most entertaining way to learn.
+On the other hand, the Ropper's Roadmap, which is where you are right now, is entirely focused on learning new material in the most efficient and entertaining way possible. It's a work in progress and will have you learn a great deal of very varied information.
 
 ## Quick Links
 
 If you already know what you want to learn, click the links below. Otherwise, continue down the page and we will help find the right training for your skill level and what you want to improve.
 
-* [Linux Fundamentals](training/linux.md) 
-* [Computing Fundamentals](training/fundamentals.md) 
-* [Security Fundamentals](training/security.md) 
-* [Python Fundamentals](training/python.md) 
-* [Capture the Flag Basics](#4-capture-the-flags)
-* [Cryptography](training/crypto.md)
-* [C and Reverse Engineering](training/hardstuff.md) 
-* [Binary Exploitation](training/pwning.md)
-* [Web Exploitation](training/web.md)
+### [Computing Fundamentals](training/fundamentals.md) 
 
-To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
-
-# Choose Your Own Adventure
-
-The following is a choose your own adventure game where we will attempt to help new students find their way to the best resources for their current skill level. For the most part, you should follow the main track as a beginner so that you improve on pace with the difficulty of the material. Click the hyperlinks to find the training that is right for you!
-
-<h2 id="linux">1. Linux</h2> 
-
-Do you feel comfortable on a Linux command line? Are you comfortable with computing fundamentals such as how hardware and operating systems work?
-
-* [I have some experience.](challs/bandit.md) 
-* [Not confident.](training/linux.md) 
-* [I do not need any more Linux  experience.](#python)
+This is the basic Ropper's fundamentals course and it is very nicely built out and will teach you most of what you need to know to be successful. 
+  * [Linux Fundamentals](training/linux.md) 
+  * [Web Fundamentals(IP)](training/web.md) 
+  * [Python Fundamentals](training/python.md) 
   
- 
-<br>
-<br>
-<hr>
-<br>
-<br>
- 
- <h2 id="python">2. Python</h2> 
-                                                                      
-Do you feel comfortable writing a Python script which would scrape a website and email you the most recent articles? 
+### [Security Fundamentals](training/security.md) 
 
-* [I think so.](challs/pythontest.md)
-* [Probably not.](training/python.md) 
-* [Definitely, I am a confident programmer.](#switch)
+In this course we will provide the context needed to develop a technical understanding of security and how different roles fit into this. It is highly recommended that the student follows this course with [Professor Messer's Comptia Security+ Course](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/). Remember, passing certs is more about how well you study for it, than total understanding so really dive into Anki decks such as [this](https://ankiweb.net/shared/info/2145089484) and [this](https://ankiweb.net/shared/info/352022978), as well as the many study guides out there freely available.
 
-<br>
-<br>
-<hr>
-<br>
-<br>
+### [Networking Fundamentals(IP)](training/networking.md)
 
-<h2 id="switch">3. Learn Fundamentals or Compete in a CTF</h2> 
+In this course you will learn how networking works at a practical level, before you go and hit the books to learn networking on a theoretical level like is required for the Comptia Network+ course. Again, once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/). This is the blend of practical experience and theoretical knowledge that will make you both very skilled and very knowledgeable. Just like for Security, focus on studying more than watching videos, so that means Anki decks and study guides, but don't forget to load up Wireshark and look at those packets as you go along.
 
-Depending on what you want to get out of this, you can either take our comprehensive computing fundamentals course, skipping the Linux and Python sections you have already completed, or you can advance forward to take a course on the basics of Capture the Flags, or a course on practical security.
+### [Capture the Flag Basics](training/ctf.md)
 
-#### Intro. to Computing
-This is our flagship course, designed to give a beginner in the cyber security field the knowledge and skills required to be successful in the field. It teaches security fundamentals along with building a strong technical foundation that you will build on for years to come.
+CTF's won't get you hired, but it will teach you a lot of material very quickly, as well as be a super entertaining way to do it. 
 
-Learning Objectives: Hardware, Networking, Operating Systems, Power User
+ * [Cryptography Fundamentals](training/crypto.md)
+ * [Forensics Fundamentals(IP)](training/forensics.md)
 
-* [I want to learn about Computing Fundamentals](training/fundamentals.md)
+### The Hard Stuff
 
-#### Intro to Capture the Flags
+Reverse engineering, binary exploitation, shellcoding, writing portable code...
 
-Learn the basics of what is required to be successful in Capture the Flag competitions and compete in the picoCTF event.
+To do "The Hard Stuff" you will need to learn C. Then you will need to use that knowledge of C to learn Assembly. Then you will need to use that knowledge of Assembly to become a Wizard. You can't just skip any of these steps. Follow them in order. 
 
-Learning Objectives: CTFs, Forensics, Cryptography, Web-Exploitation
+* [Learn C(IP)](training/c.md) 
+* [Reverse Engineering](training/hardstuff.md) 
+* [Binary Exploitation](training/pwning.md)
 
-* [Fundamentals sounds boring. Let's go do some CTFs.](#ctfs)
-* [I already know all that stuff. Give me something harder](#cnre)
+### [Web Exploitation](training/web.md)
 
-#### Introduction to Security: How Security Works in the Real World
-
-Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world.
-
-Learning Objectives: Security Theory, Practical Application, Real-World Examples
-
-* [I want to learn about Security Fundamentals.](training/security.md)
-
-<br>
-<br>
-<hr>
-<br>
-<br>
+I don't care about web exploitation. Go and learn bug bounty somewhere else. 
 
 
-<h2 id="ctfs">4. Capture the Flags</h2> 
-
-How do you feel about solving network and host forensics challenges?
-
-* [I've done some before, but I need more practice.](training/forensics.md)
-* [I don't know much but I want to learn.](training/forensics.md)
-* [That is boring, and I can do it already.](#crypto)
-
-
-<br>
-<br>
-<hr>
-<br>
-<br>
-
-<h2 id="crypto">5. Crypto</h2> 
-
-Do you know anything about the basics of cryptography?
-
-* [I would love to learn some!](training/crypto.md)
-* [Not particularly interested.](#web)
-
-
-<br>
-<br>
-<hr>
-<br>
-<br>
-
-<h2 id="web">6. Web</h2> 
-
-How much do you know about Web exploitation?
-
-* [I'm not really interested, I want to learn reversing and exploit writing.](#cnre)
-* [No, but I want to learn.](training/web.md)
-<br>
-<br>
-<hr>
-<br>
-<br>
-
-<h2 id="cnre">7. C Programming and RE</h2> 
-
-How do you feel about writing C and reversing it using a debugger? 
-
-* [Somewhat? I think I can.](training/hardstuff.md)
-* [No, but I want to learn.](training/hardstuff.md)
-* [I am very confident.](#pwn)
-
-<br>
-<br>
-<hr>
-<br>
-<br>
-
-<h2 id="pwn">8. Pwning</h2> 
-How do you feel about writing a buffer overflow with no stack protections?
-
-* [Yes, probably.](training/pwning.md)  
-* [Not really, but I want to learn.](training/pwning.md) 
-
-
-You got to the end of the choose your own adventure. Contact the Training Group if you have any questions, comments, or recommendations. 
 
 To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
-
-
 
