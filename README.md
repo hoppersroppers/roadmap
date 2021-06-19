@@ -20,9 +20,9 @@ This is Ropper's flagship course and will teach you most of what you need to kno
 
 In this course we will provide the context needed to develop a technical understanding of security and how different roles fit into this. 
 
-### [Networking Fundamentals(IP)](https://www.hoppersroppers.org/ctfNetworks.html)
+### [Networking Fundamentals(IP)](networking/crypto.md)
 
-In this course you will learn how networking works at a practical level before you go and hit the books to learn networking on a theoretical level. Once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/) to get the theoretical knowledge you are looking for. Or you can just not... Networking is super easy to fake as long as you are comfortable with Wireshark and trouble shooting.
+In this course you will learn how networking works at a practical level before you go and hit the books to learn networking on a theoretical level. Once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/) to get the theoretical knowledge you are looking for. Or you can just not... Networking is super easy to fake as long as you are comfortable with Wireshark and troubleshooting.
 
 ### [Capture the Flag Basics](https://www.hoppersroppers.org/courseCTF.html)
 
