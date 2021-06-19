@@ -1,4 +1,4 @@
-## Learn Networking Roadmap
+## How to Learn Networking Roadmap
 
 Networking is hands down the most important thing to understand in security, and still, people just kind of fumble through it. Give yourself the hands on, practical knowledge required so that you can succeed. 
 
