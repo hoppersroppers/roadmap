@@ -8,4 +8,9 @@ This course prepares you completely for more advanced reverse engineering and bi
 
 Complete this course. [https://academy.hoppersroppers.org/course/view.php?id=4](https://academy.hoppersroppers.org/course/view.php?id=4)
 
-Message @Dennis Devey to tell him you are starting the course, and then use the #reversing chatroom for any questions or discussions.
+## Arm Resource
+
+If you are trying to learn ARM, use these resources:
+
+* [Azeria Labs](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* <https://developer.arm.com/documentation/102438/0100/Learning-about-the-instruction-set>
