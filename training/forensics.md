@@ -10,5 +10,7 @@ From the Roppers CTF Course:
 * Complete [Host and Memory Forensics](https://academy.hoppersroppers.org/course/view.php?id=7#section-8)
 * Complete [Network Forensics](https://academy.hoppersroppers.org/course/view.php?id=7#section-6)
 
-There is a lot to learn here, but this is a decent start.
+There is a lot to learn here, but this is a decent start. 
+
+While you're doing those courses, check out [DFIR Diva's Page on Getting into DFIR](https://dfirdiva.com/getting-into-dfir/).
 
