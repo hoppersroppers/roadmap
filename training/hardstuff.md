@@ -1,4 +1,6 @@
-# Roppers Academy- Learn the Hard Stuff the Slow Way
+# How to Learn Reverse Engineering 
+
+This is the first step of our reverse engineering roadmap. 
 
 After years of trying to teach students and trying to teach ourselves, we came up with a curriculum to learn C, Assembly, debugging, and reverse-engineering all at the same time. It is a lot of work, but is the best way to learn out there.
 
