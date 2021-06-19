@@ -4,7 +4,8 @@ There are limitless resources out there to teach you the basics of computing and
 
 Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself. 
 
-If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge. If you are interested in certificates, [this is our roadmap for earning those](https://www.hoppersroppers.org/library/infosecCertRoadmap).
+* If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge to future employers, without certs.
+* If you are interested in certificates, [this is our roadmap for earning those](https://www.hoppersroppers.org/library/infosecCertRoadmap).
 
 On the other hand, the Ropper's Roadmap, which is where you are right now, is entirely focused on learning new material in the most efficient and entertaining way possible. It's a work in progress and will have you learn a great deal of very varied information. This is focused on how to teach yourself anything, and we provide the steps you need to take to learn. 
 
