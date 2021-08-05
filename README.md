@@ -1,8 +1,8 @@
 # Security Education Roadmap
 
-There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. 
+There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. This is our recommended cyber security training path, heavily biased towards you sticking around our pipeline.
 
-Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself entirely. With the right learning path, anyone can teach themselves whatever they need to know, but otherwise they might be paddling the wrong direction.
+Our philosophy at Ropper's Academy is that we provide you a straightforward roadmap and accompanying curriculum, and if you follow it, you will be better prepared for whatever comes next than any student who attempts to teach themself entirely. With the right security learning path, anyone can teach themselves whatever they need to know, but otherwise they might be paddling the wrong direction.
 
 * If you're looking for our recommendations on how to get a job in security, [this is the link for you](https://www.hoppersroppers.org/library/breakIntoSecurity.html). It focuses on projects and demonstrating knowledge to future employers, without certs.
 * If you are interested in certificates, [this is our roadmap for earning those](https://www.hoppersroppers.org/library/infosecCertRoadmap).
@@ -11,20 +11,20 @@ On the other hand, the Ropper's Roadmap, which is where you are right now, is en
 
 ### Computing Fundamentals
 
-Ropper's flagship course focuses on [Computing Fundamentals](https://www.hoppersroppers.org/course.html) and will teach you most of what you need to know to be successful, no matter what your starting experience is. Taking you from installing your first Virtual Machine and writing your first python script, to learning advanced Linux sysadmin knowledge and coding complex networking tasks, this course is zero to hero in a very fun manner.
+Ropper's flagship course focuses on [Computing Fundamentals](https://www.hoppersroppers.org/course.html) and will teach you most of what you need to know to be successful, no matter what your starting experience is. Taking you from installing your first Virtual Machine and writing your first python script, to learning advanced Linux sysadmin knowledge and coding complex networking tasks, this course is zero to hero in a very fun manner. If you think you already have experience, I guarantee everyone will learn something new here so it is worth working through the parts that interest you.
 
 
  * [Computing](training/fundamentals.md)
  * [Linux](training/linux.md)
  * [Python](training/python.md)
   
-### [Security Fundamentals](training/security) 
+### [Security Fundamentals: Theory and Practice](training/security) 
 
-In this course we will provide the context needed to develop a technical understanding of security and how different roles fit into this. 
+In this course we will provide the context needed to develop a technical understanding of security and how different roles fit into this. While there are some technical labs that teach the basic of threat hunting, this course teaches the mental models, online tools, and general vocabulary required to understand where security fits into the modern world.
 
-### [Networking Fundamentals](training/networking)
+### [Networking Fundamentals (In Progress)](training/networking)
 
-In this course you will learn how networking works at a practical level before you go and hit the books to learn networking on a theoretical level. Once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/) to get the theoretical knowledge you are looking for. Or you can just not... Networking is super easy to fake as long as you are comfortable with Wireshark and troubleshooting.
+In this course you will learn how networking works at a practical level before you go and hit the books to learn networking on a theoretical level. Once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/) to get the theoretical knowledge you are looking for. Or you can just not... Networking is super easy to fake as long as you are comfortable with Wireshark and troubleshooting. At Roppers, we are all about getting hands on and figuring it out from there.
 
 ### [Capture the Flag Basics](https://www.hoppersroppers.org/courseCTF.html)
 
@@ -33,6 +33,8 @@ CTF's won't get you hired, but it will teach you a lot of material very quickly,
  * [Cryptography Fundamentals](training/crypto.md)
  * [Forensics Fundamentals](training/forensics.md)
 
+Once you finish this course, you'll be ready for any CTF out there, and you should check out TryHackMe to get some more practice. Not yet though... I promise, this course is worth it.
+
 
 ### The Hard Stuff
 
@@ -40,7 +42,7 @@ Reverse engineering, binary exploitation, shellcoding, writing portable code...
 
 To do "The Hard Stuff" you will need to learn C. Then you will need to use that knowledge of C to learn Assembly. Then you will need to use that knowledge of Assembly to become a Wizard. You can't just skip any of these steps. Follow them in order. 
 
-* [Learn C(IP)](training/c.md) 
+* [Learn C(In Progress)](training/c.md) 
 * [Reverse Engineering](training/hardstuff.md) 
 * [Binary Exploitation](training/pwning.md)
 * [Implant Development](https://www.hoppersroppers.org/rootkit.html)
