@@ -1,4 +1,4 @@
-# Security Education Roadmap
+# Cyber Security Education Roadmap
 
 There are limitless resources out there to teach you the basics of computing and security, and finding the right place to start with that many options is almost impossible. This is our recommended cyber security training path, heavily biased towards you sticking around our pipeline.
 
