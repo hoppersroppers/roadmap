@@ -15,3 +15,7 @@ This will take a while, but the secret is to use the two in parallel.
 Don't worry about learning advanced data structures or algorithms beyond what is in h0mbre's assignments. 
 
 Once you are done with this curriculum, you will be ready for more advanced material along this path like [reverse engineering](hardstuff.md) and [binary exploits](pwn.md).
+
+If you are interested in getting a more complete Computer Science education, work through the [Open Source Society University curriculum](https://github.com/ossu/computer-science/blob/master/README.md). It is excellent.
+
+Overall, getting good at this involves writing a ton of code, reading a ton of code, and generally exposing yourself to challenging projects on a regular basis. 
