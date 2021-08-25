@@ -4,6 +4,6 @@ This is the flagship course of the site, designed to get beginners up and runnin
 
 Complete the Basic and Advanced Linux sections of this course. 
 
-<https://www.hoppersroppers.org/course.html>
+<https://roppers.thinkific.com/courses/computing-fundamentals>
 
 
