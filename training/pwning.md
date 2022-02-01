@@ -2,6 +2,8 @@
 
 Trying to learn PWN and Binex but can't get it down? This is our path to learn how to write binary exploits and become a wizard. 
 
+If you are looking for how to learn heap exploitation, [checkout this page](/heap.md).
+
 ## Prerequisites ##
 
 Binary exploitation, or pwn, requires a familiarity with C and a scripting language (preferrably python).  
@@ -9,20 +11,14 @@ Binary exploitation, or pwn, requires a familiarity with C and a scripting langu
 It is highly recommended you have completed ['Learn the Hard Stuff the Slow Way'](/hardstuff.md).
 
 ## Progression of the PWN ##
-The following site is recommended as the primary way to learn
+The following repo is recommended as the primary way to learn. 
 
-* [Nightmare](https://github.com/guyinatuxedo/nightmare/tree/master/modules)
+* [Nightmare](https://github.com/hoppersroppers/nightmare)
 
-Before you get too wrapped up following it,I recommend you work through this course in parallel to give more academic background of what is going on for the different exploitation classes. For example, when you get to a new bug type, work through the material and labs in here first before jumping into Nightmare material.
-
-* [Aviv's Stack Based Binary Exploits](https://github.com/adamaviv/si485h-f18)
-
-By working through these resources in parallel you can maximize your understanding. 
-
-Once you have completed these courses, then you can go and look at all the other 1000 resources and learn about Windows and everything else. For now, keep your eyes on the prize and do the entire thing.
+Nightmare was originally written by [guyinatuxedo](https://github.com/guyinatuxedo/nightmare), I just made a hilariously hard fork and added in a bunch of other resources. I want to be very clear that I don't take credit for any of the content in this course, I'm just an aggregator. 
 
 ## Discord 
-If you get stuck on something for hours on end and google can't answer your question, try asking in the discord (or if you just feel like talking about cool security things). Here is a link to it <https://discord.gg/p5E3VZF>
+If you get stuck on something for hours on end and google can't answer your question, try asking in the Nightmare discord (or if you just feel like talking about cool security things). Here is a link to it <https://discord.gg/p5E3VZF>. Again, Roppers doesn't have anything to do with this Discord, it's just a great place to learn. 
 
 Also if you notice any typos or mistakes, feel free to mention it in the Discord. With how much content is here, there is bound to be at least one.
 
