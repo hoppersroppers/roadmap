@@ -1,114 +1,63 @@
 # How To Learn Python Roadmap
 
+Programming is a massive field, and while I’m a developer in my day job and love teaching programming, I don't want to teach you programming as part of Hopper’s Roppers. There are a lot of other people online who are focused on programming exclusively so you should learn from them… but hey, [there’s no rush](http://norvig.com/21-days.html). 
 
-# Codeacademy Python
-
-This is going to take a while, but Codeacademy Python is the best way I've found to learn a first programming language. It is all done in an online editor and will let you progress with the appropriate hints. 
-
-**NOTE: If you already know a programming language and don't need to re-learn what a tuple is, or are already learning Python using a different site or course, let us know. We can customize your experience here, there is no hard rule you have to use Code Academy.**
-
-Keep us updated in chat on your progress, we will be reaching out to you too. When you are done, submit a screenshot of your completion certificate!!
-
-   * Complete Code Academy Python
-      * <https://www.codecademy.com/learn/python>
-
-So you know a language now, right? Congratulations! The thing to remember is that all skills, if not used, will slowly atrophy. My recommendation is to constantly challenge yourself to maintain your skill level so when you have to write a program, you can whip something up immediately without having to relearn the syntax... or you can just ignore it completely and when the need arises, spend a half hour fumbling until you remember enough to get it working. Both of those are completely valid ways to maintain proficiency in a language. This course won't teach you any more languages, but if you continue in this pipeline you will learn C and some low level assembly.
-
- You are a big bad programmer now, but it has all been done in your browser! Time to learn how to do it from the terminal on your computer(s). This might require some googling..... don't worry, that is literally how programming works. You find something you need to do, and google how to do it. Then you forget how to do it, and you go and google it again the next time you do it. The next bit will help you set up your python environment in your OS's. Setting up environments is very time consuming, no matter what it is, but you will have to do this for basically every language, and every version of each language, so you will have to get good at it.
-
-# Python in the Terminal
-
-## Windows 
-
-* <https://docs.python.org/3.3/using/windows.html>
-1. What is a path? You might have to google around to understand it. Hint: If you mess this up, things get interesting.
-2. Submit a screenshot of you running a .py file from the command line in Windows!
-
-## Linux
-* <https://docs.python.org/3.3/using/unix.html>
-1. Submit a screenshot of you running a .py file from the command line in Linux!
-
-* Know how to a run bash command from within a python script
-   * ref: <https://stackoverflow.com/questions/26236126/how-to-run-bash-command-inside-python-script>
-1. Submit a screenshot of you running a bash command from inside a python script.
-
-Programming and scripting are different, but share most of the same principles, and these principles will be shared between all languages. Once you can program well in one language, you can learn any language, it just will take a bit to learn.
-
-# Automate the Boring Stuff
-
-Learn how to do practical work with Python using a book that walks you through a variety of basic projects. It is an important note that the book is all for Python 2, which has been deprecated. We recommend that you use Python 3. There are very minor differences throughout, but it does not detract from the educational experience.
-
-Work through the chapters of this book, <https://automatetheboringstuff.com/>. The full course is in process. 
-
-<ul>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter0/">Chapter  0 – Introduction</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter1/">Chapter  1 – Python Basics</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter2/">Chapter  2 – Flow Control</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter3/">Chapter  3 – Functions</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter4/">Chapter  4 – Lists</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter5/">Chapter  5 – Dictionaries and Structuring Data</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter6/">Chapter  6 – Manipulating Strings</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter7/">Chapter  7 – Pattern Matching with Regular Expressions</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter8/">Chapter  8 – Input Validation</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter9/">Chapter  9 – Reading and Writing Files</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter10/">Chapter 10 – Organizing Files</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter11/">Chapter 11 – Debugging</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter12/">Chapter 12 – Web Scraping</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter13/">Chapter 13 – Working with Excel Spreadsheets</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter14/">Chapter 14 – Working with Google Spreadsheets</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter15/">Chapter 15 – Working with PDF and Word Documents</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter16/">Chapter 16 – Working with CSV Files and JSON Data</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter17/">Chapter 17 – Keeping Time, Scheduling Tasks, and Launching Programs</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter18/">Chapter 18 – Sending Email and Text Messages</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter19/">Chapter 19 – Manipulating Images</a></li>
-			<li><a href="https://automatetheboringstuff.com//2e/chapter20/">Chapter 20 – Controlling the Keyboard and Mouse with GUI Automation</a></li>
-			<li><a href="/2e/appendixa/">Appendix A – Installing Third-Party Modules</a></li>
-			<li><a href="/2e/appendixb/">Appendix B – Running Programs</a></li>
-			<li><a href="/2e/appendixc/">Appendix C – Answers to the Practice Questions</a></li>
-			</ul>
+This is my brief post on what I think is the best way to learn Python to the level required for security and CTFs. If you are interested in how to learn C, the language of hackers, [check out this post.](https://www.hoppersroppers.org/roadmap/training/c.html)
 
 
-# Pwn Tools
+### Codecademy Python 2
 
-## Introduction
+This is going to take a while, but Codecademy Python is the best way I've found to learn a first programming language. In fact, it was the place I learned Python back in high school.
 
-[`Pwntools`](https://pwntools.com) is a grab-bag of tools to make exploitation during CTFs as painless as possible, and to make exploits as easy to read as possible.
+One of the coolest things about Codecademy is it is all done in an online editor and will let you progress with the appropriate hints. While you are working through this, use the amazing [PythonTutor Visualization](http://www.pythontutor.com/visualize.html#mode=edit) anytime you are trying to understand what is going on behind the scenes with your code. It's super helpful and will help you understand debugging in a visual manner.
 
-There are bits of code everyone has written a million times, and everyone has their own way of doing it.  Pwntools aims to provide all of these in a semi-standard way, so that you can stop copy-pasting the same `struct.unpack('>I', x)` code around and instead use more slightly more legible wrappers like `pack` or `p32` or even `p64(..., endian='big', sign=True)`.
+**NOTE: Codecademy Free teaches the slightly outdated Python 2 language, instead of the more recent Python 3. If you want to pay Codecademy, do it, I’m all about internet educators getting paid. This is not really a problem, the language is basically the same and what we are worried about is you learning how programming works, not exact syntax. Once you know Python 2, 3 is just a few steps different.**
 
-Aside from convenience wrappers around mundane functionality, it also provides a very rich set of `tubes` which wrap all of the IO that you'll ever perform in a single, unifying interface.  Switching from a local exploit to a remote exploit, or local exploit over SSH becomes a one-line change.
+The world has moved on to Python 3, so you can build the skill of mentally translating syntax and learning a new language on the fly, a critical part of being a developer. Plus security people are notorious for not updating their projects to newer versions of languages, so you’ll run into plenty of 
 
-Last but not least, it also includes a wide array of exploitation assistance tools for intermediate-to-advanced use cases.  These include remote symbol resolution given a memory disclosure primitive (`MemLeak` and `DynELF`), ELF parsing and patching (`ELF`), and ROP gadget discovery and call-chain building (`ROP`).
+Keep us updated in the #python channel in Slack on your progress and for help.
 
-We won't be getting into the exploitation assistance tools in this part of the course, but they'll come back again later.
+* [https://www.codecademy.com/learn/python](https://www.codecademy.com/learn/python)
 
-## Tutorials
+If you get bored... just move on. Codecademy can kind of drag, and if you're bored, just keep moving. I promise you'll be fine without it for now, you'll just have to learn Python for real eventually.
 
-- [Installing Pwntools](https://github.com/Gallopsled/pwntools-tutorial/blob/master/installing.md)
-- [Tubes](https://github.com/Gallopsled/pwntools-tutorial/blob/master/tubes.md)
-    + Basic Tubes
-    + Interactive Shells
-    + Processes
-    + Networking
-    + Secure Shell
-    + Serial Ports
-- [Utility](https://github.com/Gallopsled/pwntools-tutorial/blob/master/utility.md)
-    + Encoding and Hashing
-    + Packing / unpacking integers
-    + Pattern generation
-    + Safe evaluation
-- [Context](https://github.com/Gallopsled/pwntools-tutorial/blob/master/context.md)
-    + Architecture
-    + Endianness
-    + Log verbosity
-    + Timeout
-    
-## Final Challenge
-
-Using Pwntools, write a python script to solve the first 5 challenges in Over the Wire Bandit. <https://overthewire.org/wargames/bandit/>
-
-(Hint: <https://github.com/Gallopsled/pwntools-write-ups/blob/master/wargames/overthewire-vortex/level0/win.py> )
+No boredom, no drudgery!
 
 
-Once you have done everything in this section you should be overwhelmingly confident in your ability to write Python scripts to do just about anything you come across. 
-    
+### Automate the Boring Stuff 
+
+If you want to get good at practical programming, you should go and complete all of the exercises in Automate the Boring Stuff ([https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)) in Python 3. Once you have done that you will be capable of just about any scripting task in Python if you have the time to do your research and work through it.
+
+For now, I just want you to work through Chapters 9-12 of the Automate the Boring Stuff curriculum. We skip the first few chapters, but you generally have learned them from Codecademy already. If you're having trouble with Chapter 9 (you probably will), step back a few chapters and work through them until you feel comfortable moving forward.
+
+For the first thing on ATBS you should work through Chapter 9 and write code that will automagically create and modify files on the hard drive for you.
+
+[https://automatetheboringstuff.com/2e/chapter9](https://automatetheboringstuff.com/2e/chapter9)
+
+### Networking Projects (In Python):
+
+Python is a beautiful language for doing networking projects, and the [Networking for Hackers course](https://www.roppers.org/courses/networking) has an entire section on it. If you haven’t done that course yet, do it. I guarantee you don’t know networking as well as you think you do. 
+
+
+### Projects Worth Doing (in Python):
+
+Once you have worked through a few chapters of ATBS, it’s time to do some interesting and security related projects. I want to be very clear, I don’t really believe in good development practices and reading about how to program. I believe in throwing code into the editor, hitting compile (or run for Python) and seeing what happens. Do that enough times with complicated enough projects and you’ll be able to do anything you need to, and way faster than someone who is taking their time. 
+
+I’ve compiled a [list of great projects here](https://www.hoppersroppers.org/library/interestingProjects.html) but I’ll break a few of them out. I recommend you go back to them after you’ve completed [https://www.roppers.org/courses/security](https://www.roppers.org/courses/security) because they are practical applications of security tools and principles. 
+
+First up is [Black Hat Python](https://nostarch.com/black-hat-python2E) by Justin Seitz. I worked with him a little on a project once, and he was very nice to a college kid playing out of his league. This book has a little bit of everything and plenty of code examples on things like writing network sniffers, stealing email credentials, and bruteforcing directories to crafting mutation fuzzers, investigating virtual machines, and creating stealthy trojans. [Violent Python](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579) by TJ O’Connor (met him once too) is also great if you’re looking for similar projects.
+
+Similar to BHP is [Gray Hat Python](https://nostarch.com/ghpython.htm) by Justin again. It’s a bit lower into the weeds with a bit more of a reverse engineering focus, but it has some badass stuff in there. If you work through this book you’ll be able to do just about anything with Python. 
+
+There are also a few build your own hardware projects in that Projects Worth Doing link that are a ton of fun. Hardware is an entirely different beast… that’s why I made my brother get a Computer Engineering degree so I never had to learn any of it.
+
+
+### Teach Yourself Computer Science 
+
+If you want to learn Computer Science properly, I recommend you work through [https://github.com/ossu/computer-science/blob/master/README.md](https://github.com/ossu/computer-science/blob/master/README.md). It's a fairly comprehensive education. I’m not big into Computer Science, I believe in getting things done quick and dirty, but hey, some people like that stuff. 
+
+Computer science is wildly outside of the scope of this site, so I'd prefer if you stuck around, but the entire point of learning is following what you are interested in. No hard feelings if you go, just promise to come back! 
+
+Recommend you start at this course, as you already have some python experience. [https://github.com/ossu/computer-science/blob/master/README.md#introduction-to-programming](https://github.com/ossu/computer-science/blob/master/README.md#introduction-to-programming)
+
+Programming is something that takes a lifetime to get good at, so don't worry about being good at it for a while. Focus on making things that work just well enough to get the job done.
