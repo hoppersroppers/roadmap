@@ -12,11 +12,11 @@ Binary exploitation, aka binex, is considered by many to be the among the most a
 
 To me binex is the peak of security knowledge, but I'm biased because I get to do it for my job and I get to teach people how to be good at it as part of my job. 
 
-Being good at binex is a career long adventure, not just because of how quickly the human brain forgets this kind of abstract dark magic but because hackers constantly are adding new techniques to defend against exploitation... and other hackers are finding ways to bypass those defenses. The diagram below shows mitigations on the bottom and bypasses to those mitigations on the top, to give you an idea of the back and forth.
+Being good at binex is a career long adventure, not just because of how quickly the human brain forgets this kind of abstract dark magic but because hackers constantly are adding new techniques to defend against exploitation... and other hackers are finding ways to bypass those defenses. The diagram below from this excellent presentation on [why memory safety will always be a concern](https://docs.google.com/presentation/d/1EscMOcMNOwi-bCgOthjiwIXE30w_SeHk3ahjyY0pX10/edit#slide=id.g72177b938a_1_18514) shows mitigations on the bottom and bypasses to those mitigations on the top, to give you an idea of the back and forth.
 
 ![Progression of the Pwn](https://pbs.twimg.com/media/FOE9minXIAAT9f7?format=jpg&name=large)
 
-You won't learn all of the techniques in that diagram in my course that attempts to teach this, but it will get you up through about 2008's state of the art and you'll know enough to be able to teach yourself the follow on material. Plus, plenty of code written to 2008 standards is out there on the internet so you won't be lacking practical application. 
+You won't learn all of the techniques in that diagram in the following course that attempts to teach binex, but it will get you up through about 2008's state of the art and you'll know enough to be able to teach yourself the follow on material. Plus, plenty of code written to 2008 standards is out there on the internet so you won't be lacking practical application. 
 
 Welcome to the show!
 
