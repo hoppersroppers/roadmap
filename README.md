@@ -22,11 +22,11 @@ Ropper's flagship course focuses on [Computing Fundamentals](https://www.hoppers
 
 In this course we will provide the context needed to develop a technical understanding of security and how different roles fit into this. While there are some technical labs that teach the basic of threat hunting, this course teaches the mental models, online tools, and general vocabulary required to understand where security fits into the modern world.
 
-### [Networking Fundamentals (In Progress)](training/networking)
+### [Networking Fundamentals ](training/networking)
 
-In this course you will learn how networking works at a practical level before you go and hit the books to learn networking on a theoretical level. Once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/) to get the theoretical knowledge you are looking for. Or you can just not... Networking is super easy to fake as long as you are comfortable with Wireshark and troubleshooting. At Roppers, we are all about getting hands on and figuring it out from there.
+In [this course](https://www.roppers.org/courses/networking) you will learn how networking works at a practical level before you go and hit the books to learn networking on a theoretical level. Once you finish the Ropper's practical material, use [Professor Messer's Comptia Network Course](https://www.professormesser.com/netplus-resources/) to get the theoretical knowledge you are looking for. Or you can just not... Networking is super easy to fake as long as you are comfortable with Wireshark and troubleshooting. At Roppers, we are all about getting hands on and figuring it out from there.
 
-### [Capture the Flag Basics](https://www.hoppersroppers.org/courseCTF.html)
+### [Capture the Flag Basics](https://www.roppers.org/courses/ctf)
 
 CTF's won't get you hired, but it will teach you a lot of material very quickly, as well as be a super entertaining way to do it. 
 
@@ -42,7 +42,7 @@ Reverse engineering, binary exploitation, shellcoding, writing portable code...
 
 To do "The Hard Stuff" you will need to learn C. Then you will need to use that knowledge of C to learn Assembly. Then you will need to use that knowledge of Assembly to become a Wizard. You can't just skip any of these steps. Follow them in order. 
 
-* [Learn C(In Progress)](training/c.md) 
+* [Learn C](training/c.md) 
 * [Reverse Engineering](training/hardstuff.md) 
 * [Binary Exploitation](training/pwning.md)
 * [Implant Development](https://www.hoppersroppers.org/rootkit.html)
