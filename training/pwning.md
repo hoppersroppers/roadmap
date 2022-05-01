@@ -6,7 +6,7 @@ Trying to learn Pwn and Binary Exploitation but can't get over the initial hurdl
 
 Binary exploitation, aka binex, is considered by many to be the among the most advanced and most interesting topic there is in security. Hacking is about making the cursed sand dance, and there's something special about making someone else's sand do what you want.
 
-To me, binex is the peak of security knowledge but I'm biased because I get to do it for my job and I teach people how to be good at it as part of my job. 
+To me, binex is the *peak of security knowledge* but I'm biased because I get to do it and teach people how to be good at it as part of my job. 
 
 ## Prerequisites ##
 
@@ -16,7 +16,7 @@ You can get away with not being great at C, but it's a limiting factor. If you w
 
 ## Progression of the PWN ##
 
-Nightmare is an Intro to Binary Exploitation / Reverse Engineering course [written by GuyInATuxedo](https://github.com/guyinatuxedo/nightmare) based around Capture the Flag challenges. I remixed and added a bit more of a focus on theory, hammering critical concepts, and slowly building expertise in alignment with the Roppers philosophy. 
+Nightmare is an awesome Intro to Binary Exploitation / Reverse Engineering course [written by GuyInATuxedo](https://github.com/guyinatuxedo/nightmare) based around Capture the Flag challenges. I remixed and added a bit more of a focus on theory, hammering critical concepts, and slowly building expertise in alignment with the Roppers philosophy. 
 
 * [Nightmare: Roppers Remix](https://github.com/hoppersroppers/nightmare)
 
