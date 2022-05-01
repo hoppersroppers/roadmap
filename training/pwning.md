@@ -1,18 +1,20 @@
 # How to Learn Binary Exploitation Roadmap 
 
+Course: [Nightmare: Roppers Remix](https://github.com/hoppersroppers/nightmare)
+
 ### "The best time to learn binex was five years ago. The second best time is now"
 
 Trying to learn Pwn and Binary Exploitation but can't get over the initial hurdles? This is the Roppers path to learn how to write binary exploits and become a wizard. 
 
 Binary exploitation, aka binex, is considered by many to be the among the most advanced and most interesting topic there is in security. Hacking is about making the cursed sand dance, and there's something special about making someone else's sand do what you want.
 
-To me, binex is the *peak of security knowledge* but I'm biased because I get to do it and teach people how to be good at it as part of my job. 
+To me, binex is the peak of security knowledge but I'm biased because I get to pop shells and teach people how to pop shells for a living. 
 
 ## Prerequisites ##
 
 Binary exploitation, or pwn, requires a familiarity with C and a scripting language (preferrably python). 
 
-You can get away with not being great at C, but it's a limiting factor. If you wind up falling in love with pwn, you will learn C in pursuit of more shells. Don't worry about pre-requisites, just figure out what you can get done with your existing knowledge as you go, this course is pretty forgiving. 
+You can get away with not being great at C, but it's a limiting factor. If you wind up falling in love with pwn, you will learn C in pursuit of more shells. Don't worry about pre-requisites too much, just figure out what you can get done with your existing knowledge as you go, this course is very forgiving. 
 
 ## Progression of the PWN ##
 
@@ -20,7 +22,7 @@ Nightmare is an awesome Intro to Binary Exploitation / Reverse Engineering cours
 
 * [Nightmare: Roppers Remix](https://github.com/hoppersroppers/nightmare)
 
-All credit goes to GuyInATuxedo, I made this remix because I spend a lot of time teaching people Binary Exploitation and while I tell everyone the original Nightmare is the best course, I found myself supplementing the material with external links. This is my attempt to make a unified repo that has everything needed for a beginner to do a fully self-taught journey into binary exploitation expertise.
+All credit goes to GuyInATuxedo, I made this remix because I spend a lot of time teaching people Binary Exploitation and while I tell everyone the original Nightmare is the best course, I found myself supplementing the material with external links. This is my attempt to make a unified repo that has everything needed for a beginner to do a fully self-taught journey towards binary exploitation expertise.
 
 #### Course Outline
 
