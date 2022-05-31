@@ -26,12 +26,12 @@ All credit goes to GuyInATuxedo, I made this remix because I spend a lot of time
 
 #### Course Outline
 
-1. [Foundational C](https://github.com/hoppersroppers/nightmare/modules/00-intro/readme.md)
-2. [Intro to Assembly](https://github.com/hoppersroppers/nightmare/modules/01-intro_assembly/readme.md)
-3. [Intro to Tooling](https://github.com/hoppersroppers/nightmare/modules/02-intro_tooling/readme.md)
-4. [Beginner RE](https://github.com/hoppersroppers/nightmare/modules/03-beginner_re/readme.md)
-5. [Overflows](https://github.com/hoppersroppers/nightmare/modules/04-Overflows/readme.md)
-6. [Critical Misc.](https://github.com/hoppersroppers/nightmare/modules/05-CriticalMisc/readme.md)
+1. [Foundational C](https://github.com/hoppersroppers/nightmare/blob/master/modules/00-intro/readme.md)
+2. [Intro to Assembly](https://github.com/hoppersroppers/nightmare/blob/master/modules/01-intro_assembly/readme.md)
+3. [Intro to Tooling](https://github.com/hoppersroppers/nightmare/blob/master/modules/02-intro_tooling/readme.md)
+4. [Beginner RE](https://github.com/hoppersroppers/nightmare/blob/master/modules/03-beginner_re/readme.md)
+5. [Overflows](https://github.com/hoppersroppers/nightmare/blob/master/modules/04-Overflows/readme.md)
+6. [Critical Misc.](https://github.com/hoppersroppers/nightmare/blob/master/modules/05-CriticalMisc/readme.md)
 
 ## Overview
 
