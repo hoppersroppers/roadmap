@@ -11,7 +11,7 @@ On the other hand, the Ropper's Roadmap, which is where you are right now, is en
 
 ### Computing Fundamentals
 
-Ropper's flagship course focuses on [Computing Fundamentals](https://www.hoppersroppers.org/course.html) and will teach you most of what you need to know to be successful, no matter what your starting experience is. Taking you from installing your first Virtual Machine and writing your first python script, to learning advanced Linux sysadmin knowledge and coding complex networking tasks, this course is zero to hero in a very fun manner. If you think you already have experience, I guarantee everyone will learn something new here so it is worth working through the parts that interest you.
+Ropper's flagship course focuses on [Computing Fundamentals](https://www.roppers.org/fundamentals) and will teach you most of what you need to know to be successful, no matter what your starting experience is. Taking you from installing your first Virtual Machine and writing your first python script, to learning advanced Linux sysadmin knowledge and coding complex networking tasks, this course is zero to hero in a very fun manner. If you think you already have experience, I guarantee everyone will learn something new here so it is worth working through the parts that interest you.
 
 
  * [Computing](training/fundamentals.md)
@@ -20,7 +20,7 @@ Ropper's flagship course focuses on [Computing Fundamentals](https://www.hoppers
   
 ### [Security Fundamentals: Theory and Practice](training/security) 
 
-In this course we will provide the context needed to develop a technical understanding of security and how different roles fit into this. While there are some technical labs that teach the basic of threat hunting, this course teaches the mental models, online tools, and general vocabulary required to understand where security fits into the modern world.
+In [Security Fundamentals](https://www.roppers.org/security) we will provide the context needed to develop a technical understanding of security and how different roles fit into this. While there are some technical labs that teach the basic of threat hunting, this course teaches the mental models, online tools, and general vocabulary required to understand where security fits into the modern world.
 
 ### [Networking Fundamentals ](training/networking)
 
@@ -52,7 +52,7 @@ To do "The Hard Stuff" you will need to learn C. Then you will need to use that 
 I don't care about web exploitation. Go and learn bug bounty somewhere else. 
 
 
-To get back to the main site: [Click Here](https://www.hoppersroppers.org/training.html).
+To get back to the main site: [Click Here](https://www.roppers.org/courses).
 
 
 
