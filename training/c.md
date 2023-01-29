@@ -35,6 +35,4 @@ You also can check out some of these projects to get a better understanding of s
 
 If you are interested in getting a more complete Computer Science education, you work through the [Open Source Society University curriculum](https://github.com/ossu/computer-science/blob/master/README.md). It is excellent. I don't really like Computer Science, I think it doesn't apply that much to results-oriented hacking, but that is my own bias.
 
-Overall, getting good at C involves writing a ton of code, reading a ton of code, and generally exposing yourself to challenging projects on a regular basis. 
-
-* [Learn Binary Exploitation](pwning.md)
+Overall, getting good at C involves writing a ton of code, reading a ton of code, and generally exposing yourself to challenging projects on a regular basis. Turns out, that is also how you learn Binary Exploitation](pwning.md).
