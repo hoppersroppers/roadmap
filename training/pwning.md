@@ -8,11 +8,11 @@ Trying to learn Pwn and Binary Exploitation but can't get over the initial hurdl
 
 Binary exploitation, aka binex, is considered by many to be the among the most advanced and most interesting topic there is in security. Hacking is about making the cursed sand dance, and there's something special about making someone else's sand do what you want.
 
-To me, binex is the peak of security knowledge but I'm biased because I get to pop shells and teach people how to pop shells for a living. 
+To me, binex is the best part of hacking, but I'm biased because I get to pop shells and teach people how to pop shells for a living. Roppers is basically my attempt at teaching the mentality and skills needed to be a great reverse engineer and vulnerability researcher, so you're in the right place.
 
 ## Prerequisites ##
 
-Binary exploitation, or pwn, requires a familiarity with C and a scripting language (preferrably python). 
+To be able to actually do binary exploitation, or pwn, requires [a familiarity with C](/c.md) and a scripting language, preferrably Python. 
 
 You can get away with not being great at C, but it's a limiting factor. If you wind up falling in love with pwn, you will learn C in pursuit of more shells. Don't worry about pre-requisites too much, just figure out what you can get done with your existing knowledge as you go, this course is very forgiving. 
 
@@ -66,3 +66,4 @@ There are 1000 resources for this. These are the best ones.
 
 
 If you are looking for how to learn heap exploitation, [checkout this page](/heap.md).
+If you are looking for how to learn firmware reverse engineering, [checkout this page](/firmware.md)
