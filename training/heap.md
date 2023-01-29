@@ -18,6 +18,11 @@ Learning heap is just like binex: put in the time and you'll be decent.
 
 5. Now that you almost understand things, [learn about freeing from Azeria](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/).
 6. And finally, after all this work learning the foundation, [this tutorial from Azeria on actual exploitation should almost make sense](https://azeria-labs.com/heap-exploit-development-part-1/).  
+7. Then work through these similar heap exploit writeups from Sploitfun.
+* <https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/>
+* <https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/>
+* <https://sploitfun.wordpress.com/2015/06/09/off-by-one-vulnerability-heap-based>
+* <https://sploitfun.wordpress.com/2015/06/16/use-after-free/>
 
 I hate to say this, but if you have money, you should spend it on [this course](https://www.udemy.com/course/linux-heap-exploitation-part-1/) from Max Kamper. It is truly excellent and is my recommended way to learn heap. Spend time on the assignments, pause the videos and actually do the work. Video courses by themselves never are that useful, but you reaaaallly can't learn heap by watching videos.
 
