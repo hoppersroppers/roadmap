@@ -1,20 +1,22 @@
 # How to Learn C Roadmap
 
-Teaching yourself C is difficult, but it is doable. All things considered, I recommend you take a course on this if you are able to. If not, teaching yourself is very valid. 
+Teaching yourself C is difficult, but it is doable. All things considered, I recommend you take a formal course on this if you are able to. If not, teaching yourself is very valid, but I consistently watch people struggle to stay motivated when learning by themselves.
 
-First, why learn C? Check out this article [to learn about why you learn C to learn how the computer works](https://steveklabnik.com/writing/should-you-learn-c-to-learn-how-the-computer-works).
+First, why learn C? Check out this article [to learn about why you learn C to learn how the computer works](https://steveklabnik.com/writing/should-you-learn-c-to-learn-how-the-computer-works). Fundamentally the reason is that C is as close to assembly as we want to get, so understanding c-isms is critical. 
 
 ## The Curriculum
 
-To start, get a copy of the legendary K&R aka [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language). It's a bit intimidating, so honestly, I love https://www.tutorialspoint.com/cprogramming/index.htm as well. It’s not perfect, but it really gets the job done as a short reference guide. 
+I don't have any real problems with [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), but I don't love the pacing. However, if you're someone who does better with course structure, that might be the best way to go.
 
-Begin working through it, either writing the code yourself or using [example code from this solutions guide](https://clc-wiki.net/wiki/K&R2_solutions).
+To start, get a copy of the legendary K&R aka [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language). This is a somewhat controversial call, it's an old book, bit outdated, and reccomending it is kind of a boomer move. I always want people to learn from it as their textbook because it's my way of reminding everyone that what we do hasn't changed much in the last 50 years, and it provides common ground with the people who came before. Matters to me, might not to others. K&R is a bit intimidating, so honestly, I love https://www.tutorialspoint.com/cprogramming/index.htm as well. TutorialsPoint is not perfect, but it really gets the job done as a short reference guide. The combination of the two, plus man pages, plus a small amount of Google, is all you need.
 
-In parallel, do the [h0mbre C Course](https://github.com/h0mbre/Learning-C). Work through as much of h0mbre's material as you can until you get stuck, and then look up the correct chapter in K&R and work through using K&R as your reference.
+Begin working through K&R, sometimes writing the code yourself but mostly using [example code from this solutions guide](https://clc-wiki.net/wiki/K&R2_solutions). K&R, and learning C overall, is more about reading code than writing code. Learning how good C code is written and exposing yourself to thousands of patterns is the best way to learn how C works, and then be able to build the mental models to write it properly yourself.
+
+In parallel with K&R, do the [h0mbre C Course](https://github.com/h0mbre/Learning-C). Work through as much of h0mbre's material as you can until you get stuck, and then look up the correct chapter in K&R and work through using K&R as your reference. Bouncing between the two is a good way to keep material interesting and relevant. 
 
 Keep doing this until you have finished most of of the assignments in the h0mbre course. 
 
-This will take a while, but the secret is to use the two in parallel. 
+This will take a while, but it winds up being a very balanced amount of work.
 
 Don't worry about learning advanced data structures or algorithms beyond what is in h0mbre's assignments. Data structures and algorithms are for computer scientists, not hackers.
 
