@@ -61,8 +61,11 @@ There are 1000 resources for this, but we aren't going to list them all. These a
 
 There are 1000 resources for this. These are the best ones.
 
-* [Fu11Shade Windows Exploitation](https://fullpwnops.com/windows-exploitation-pathway.html)
-* <https://github.com/r3p3r/nixawk-awesome-windows-exploitation>
+* [Corelan Exploit Blog Posts](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+   * If you have money, pay for the Corelan courses. As good as it gets.
+* [Nixawk Windows Awesome List](https://github.com/r3p3r/nixawk-awesome-windows-exploitation)
+* [Fu11Shade Windows Exploitation Awesome List](https://fullpwnops.com/windows-exploitation-pathway.html)
+* [Windows Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
 
 
 If you are looking for how to learn heap exploitation, [checkout this page](/heap.md).
