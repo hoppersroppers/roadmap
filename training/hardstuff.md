@@ -10,6 +10,14 @@ After years of trying to teach students and trying to teach ourselves, we came u
 3. Now we work back through h0mbre C using GDB and Ghidra for every assignment. This takes a while, but is a really good way to get familar with how to do Linux reverse engineering and become comfortable with disassembly.
 
 RE is all about reps and sets on really hard problems, so just get comfortable then start ripping CTF challenges until you are very very good at what you do.
+## Malware RE
+
+No question asked, the best free resource to learn Malware RE is from Azeria. 
+
+1. https://malwareunicorn.org/workshops/re101.html#0
+2. https://malwareunicorn.org/workshops/re102.html#0
+
+After that, just start playing with real samples.
 
 ## Arm Resources
 
