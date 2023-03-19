@@ -6,9 +6,10 @@ First, why learn C? Fundamentally the reason is that C is as close to assembly a
 
 ## The Curriculum
 
-I don't have any real problems with [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), but I don't love the pacing. However, if you're someone who does better with course structure, that might be the best way to go.
+I don't have any real problems with [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0), but the pacing is a bit slow. However, if you're someone who does better with course structure CS50 is the best way to go.
 
-To start learning C, get a copy of the legendary K&R aka [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language). This is a somewhat controversial call, it's an old book, bit outdated, and recommending it is kind of agreed to be a boomer move. I always want people to learn from it as their textbook because it's my way of reminding everyone that what we do hasn't changed much in the last 50 years, and it provides common ground with the people who came before. Matters to me, might not to others. K&R is a bit intimidating, so honestly, I love https://www.tutorialspoint.com/cprogramming/index.htm as well. TutorialsPoint is not perfect, but it really gets the job done as a short reference guide. The combination of the two, plus man pages, plus a small amount of Google, is all you need.
+To start learning C, get a copy of the legendary K&R aka [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language). This is a somewhat controversial call, it's an old book, bit outdated, and recommending it is kind of agreed to be a boomer move. My thought process is 
+I want people to learn from it as their textbook because it's my way of reminding everyone that what we do hasn't changed much in the last 50 years, and it provides common ground with the people who came before. Matters to me, might not to others. K&R is a bit intimidating, so honestly, I love <https://www.tutorialspoint.com/cprogramming/index.htm> as well. TutorialsPoint is not perfect, but it really gets the job done as a short reference guide. The combination of the two, plus man pages, plus a small amount of Google, is all you need.
 
 Begin working through K&R, sometimes writing the code yourself but mostly using [example code from this solutions guide](https://clc-wiki.net/wiki/K&R2_solutions). K&R, and learning C overall, is more about reading code than writing code. Learning how good C code is written and exposing yourself to thousands of patterns is the best way to learn how C works, and then be able to build the mental models to write it properly yourself.
 
@@ -35,4 +36,4 @@ You also can check out some of these projects to get a better understanding of s
 
 If you are interested in getting a more complete Computer Science education, you work through the [Open Source Society University curriculum](https://github.com/ossu/computer-science/blob/master/README.md). It is excellent. I don't really like Computer Science, I think it doesn't apply that much to results-oriented hacking, but that is my own bias.
 
-Overall, getting good at C involves writing a ton of code, reading a ton of code, and generally exposing yourself to challenging projects on a regular basis. Turns out, that is also how you learn Binary Exploitation](pwning.md).
+Overall, getting good at C involves writing a ton of code, reading a ton of code, and generally exposing yourself to challenging projects on a regular basis. Turns out, that is also how you learn [Binary Exploitation](pwning.md).
