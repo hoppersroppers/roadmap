@@ -2,7 +2,7 @@
 
 This is the first step in your roadmap to becoming an expert. 
 
-Do everything in this course. <https://roppers.thinkific.com/courses/computing-fundamentals> 
+Do everything in this course. <https://www.roppers.org/courses/fundamentals> 
 
 This will take a long time, but you will learn a huge amount. Bump back to the top of this roadmap once you are done. 
 
