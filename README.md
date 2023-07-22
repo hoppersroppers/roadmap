@@ -20,7 +20,9 @@ Ropper's flagship course focuses on [Computing Fundamentals](https://www.roppers
   
 ### [Security Fundamentals: Theory and Practice](training/security) 
 
-In [Security Fundamentals](https://www.roppers.org/security) we will provide the context needed to develop a technical understanding of security and how different roles fit into this. While there are some technical labs that teach the basic of threat hunting, this course teaches the mental models, online tools, and general vocabulary required to understand where security fits into the modern world.
+In [Security Fundamentals](https://www.roppers.org/security) we will provide the context needed to develop a technical understanding of security and how different roles fit into this. This course teaches the mental models, online tools, and general vocabulary required to understand where security fits into the modern world.
+
+We then follow that course up with [Technical Security Fundamentals](https://www.roppers.org/courses/technical-security-fundamentals) which is our attempt at creating an advanced course that uses hands-on lessons to teach how real security professionals do their jobs. 
 
 ### [Networking Fundamentals ](training/networking)
 
@@ -30,10 +32,9 @@ In [this course](https://www.roppers.org/courses/networking) you will learn how 
 
 CTF's won't get you hired, but it will teach you a lot of material very quickly, as well as be a super entertaining way to do it. 
 
- * [Cryptography Fundamentals](training/crypto.md)
- * [Forensics Fundamentals](training/forensics.md)
+[Roppers CTF Fundamentals](https://www.roppers.org/courses/ctf)
 
-Once you finish this course, you'll be ready for any CTF out there, and you should check out TryHackMe to get some more practice. Not yet though... I promise, this course is worth it.
+Once you finish this course, you'll be ready for any CTF out there, and you should check out picoCTF and TryHackMe to get some more practice. Not yet though... I promise, this course is worth it.
 
 
 ### The Hard Stuff
@@ -45,7 +46,6 @@ To do "The Hard Stuff" you will need to learn C. Then you will need to use that 
 * [Learn C](training/c.md) 
 * [Reverse Engineering](training/hardstuff.md) 
 * [Binary Exploitation](training/pwning.md)
-* [Implant Development](https://www.hoppersroppers.org/rootkit.html)
 
 ### Web Exploitation
 
