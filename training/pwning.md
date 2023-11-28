@@ -1,6 +1,6 @@
 # How to Learn Binary Exploitation Roadmap 
 
-Course: [pwn.college](https://pwn.college/)
+Courses: [pwn.college](https://pwn.college/) and [Nightmare: Roppers Remix](https://github.com/hoppersroppers/nightmare)
 
 ### "The best time to learn binex was five years ago. The second best time is now"
 
@@ -24,7 +24,7 @@ Nightmare is an awesome Intro to Binary Exploitation / Reverse Engineering cours
 
 All credit goes to GuyInATuxedo, I made this remix because I spend a lot of time teaching people Binary Exploitation and while I tell everyone the original Nightmare is the best course, I found myself supplementing the material with external links. This is my attempt to make a unified repo that has everything needed for a beginner to do a fully self-taught journey towards binary exploitation expertise.
 
-Together, pwn.college and Nightmare work well together to teach all the basics you need to know and the differences in approaches means that there is something that will stick with everyone. 
+Together, pwn.college and Nightmare work well together to teach all the basics you need to know and the differences in approaches means that there is something that will stick with everyone. Binex is about learning how to grind just as much as it is about learning the techniques, so you need a little of everything.
 
 #### Course Outline
 
@@ -39,7 +39,7 @@ Together, pwn.college and Nightmare work well together to teach all the basics y
 6. [Critical Misc.](https://github.com/hoppersroppers/nightmare/blob/master/modules/05-CriticalMisc/readme.md)
 
 * [pwn.college CSE365 Videos](https://www.youtube.com/playlist?list=PL-ymxv0nOtqqQzEncNuE6jetlJAiBUda-)
-* [pwn.college CSE466 Dojo]([https://pwn.college/cse365-s2023/](https://pwn.college/cse466-f2023/))
+* [pwn.college CSE466 Dojo](https://pwn.college/cse466-f2023/)
 
 Then do the rest of Nightmare. 
 
