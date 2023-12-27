@@ -4,7 +4,7 @@ If you already know binex, you know what's coming up next... heap exploitation. 
 
 ## Prerequisites ##
 
-You should already be pretty good at binary exploitation. If not, check out [my page on how to learn binex](/pwning.md). 
+You should already be pretty good at binary exploitation. If not, check out [my page on how to learn binex](/training/pwning.md). 
 
 ## Progression of the (Heap) PWN ##
 

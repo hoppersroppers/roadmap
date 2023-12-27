@@ -12,7 +12,7 @@ To me, binex is the best part of hacking, but I'm biased because I get to pop sh
 
 ## Prerequisites ##
 
-To actually do binary exploitation, or pwn, requires [a familiarity with C](/c.md) and a scripting language, preferably Python. 
+To actually do binary exploitation, or pwn, requires [a familiarity with C](/training/c.md) and a scripting language, preferably Python. 
 
 You can get away with not being great at C, but it's a limiting factor. If you wind up falling in love with pwn, you will learn C in pursuit of more shells. Don't worry about prerequisites too much, just figure out what you can get done with your existing knowledge as you go, this course is very forgiving. 
 
