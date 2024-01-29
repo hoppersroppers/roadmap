@@ -38,7 +38,7 @@ Together, pwn.college and Nightmare work well together to teach all the basics y
 5. [Overflows](https://github.com/hoppersroppers/nightmare/blob/master/modules/04-Overflows/readme.md)
 6. [Critical Misc.](https://github.com/hoppersroppers/nightmare/blob/master/modules/05-CriticalMisc/readme.md)
 
-* [pwn.college CSE365 Videos](https://www.youtube.com/playlist?list=PL-ymxv0nOtqqQzEncNuE6jetlJAiBUda-)
+* [pwn.college CSE466 Videos](https://www.youtube.com/playlist?list=PL-ymxv0nOtqqQzEncNuE6jetlJAiBUda-)
 * [pwn.college CSE466 Dojo](https://pwn.college/cse466-f2023/)
 
 Then do the rest of Nightmare. 
