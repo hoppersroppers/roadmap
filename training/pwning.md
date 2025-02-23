@@ -61,25 +61,17 @@ If you get stuck on something in Nightmare for hours on end and google can't ans
 
 Also if you notice any typos or mistakes, feel free to mention it in the Discord. With how much content is here, there is bound to be at least a few.
 
-### Recommended Linux/ARM Exploitation Resources ###
+### Recommended Linux Exploitation Resources ###
 
 There are 1000 resources for this, but we aren't going to list them all. These are the best ones.
 
 * <http://security.cs.rpi.edu/courses/binexp-spring2015/>
 * <https://github.com/RPISEC/MBE>
 * <https://samsclass.info/127/127_F19.shtml>
-* <https://azeria-labs.com/writing-arm-shellcode/>
-
-### Recommended Windows Exploitation Resources ###
-
-There are 1000 resources for this. These are the best ones.
-
-* [Corelan Exploit Blog Posts](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
-   * If you have money, pay for the Corelan courses. As good as it gets.
-* [Nixawk Windows Awesome List](https://github.com/r3p3r/nixawk-awesome-windows-exploitation)
-* [Fu11Shade Windows Exploitation Awesome List](https://fullpwnops.com/windows-exploitation-pathway.html)
-* [Windows Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver)
-
 
 If you are looking for how to learn heap exploitation, [checkout this page](/heap.md).
+If you are looking for how to learn Windows exploitation, [checkout this page](/pwningwin.md).
 If you are looking for how to learn firmware reverse engineering, [checkout this page](/firmware.md)
+If you are looking to learn other architectures, check out these resources:
+
+* <https://azeria-labs.com/writing-arm-shellcode/>
