@@ -70,8 +70,11 @@ There are 1000 resources for this, but we aren't going to list them all. These a
 * <https://samsclass.info/127/127_F19.shtml>
 
 If you are looking for how to learn heap exploitation, [checkout this page](/heap.md).
+
 If you are looking for how to learn Windows exploitation, [checkout this page](/pwningwin.md).
+
 If you are looking for how to learn firmware reverse engineering, [checkout this page](/firmware.md)
+
 If you are looking to learn other architectures, check out these resources:
 
 * <https://azeria-labs.com/writing-arm-shellcode/>
