@@ -1,6 +1,6 @@
 # How to Learn Binary Exploitation Roadmap 
 
-Courses: [pwn.college](https://pwn.college/) and [Nightmare: Roppers Remix](https://github.com/hoppersroppers/nightmare)
+tldr; do these courses: [pwn.college](https://pwn.college/) and [Nightmare: Roppers Remix](https://github.com/hoppersroppers/nightmare)
 
 ### "The best time to learn binex was five years ago. The second best time is now"
 
